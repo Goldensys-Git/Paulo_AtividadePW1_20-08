@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(44, 44, 44);
+}
+
+
+.displayflex{
+    display: flex;
+    gap: 25px;
+}
+
+.centertext{
+    align-items: center;
+    text-align: center;
+}
+
+.justify{
+    justify-content: center;
+}
+
+.box{
+    min-height: 75px;
+    background-color: rgb(207, 207, 207);
+}
