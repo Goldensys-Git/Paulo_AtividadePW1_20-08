@@ -9,6 +9,7 @@
   width: 800px;
   margin: 0 auto;
   background-color: rgb(59, 59, 59);
+  border: 2px solid rgb(175, 175, 175);
 }
 
 .row {
