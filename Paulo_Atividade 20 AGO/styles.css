@@ -8,6 +8,19 @@ body{
     gap: 25px;
 }
 
+.avatarimage{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.avatarstyle{
+    margin-top: 5px;
+    display: flex; 
+    gap: 5px;
+}
+
 .centertext{
     align-items: center;
     text-align: center;
@@ -20,4 +33,19 @@ body{
 .box{
     min-height: 75px;
     background-color: rgb(207, 207, 207);
+}
+
+
+.firstplaceranking{
+    background-color: rgba(126, 111, 46, 0.938);
+    border: 2px solid rgb(248, 244, 0);
+    box-sizing: border-box;
+}
+
+.firstplaceranking h1{
+    color: gold;
+}
+
+.firstplaceranking h2{
+    color: gold;
 }
